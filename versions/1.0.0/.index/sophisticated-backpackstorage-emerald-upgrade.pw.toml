@@ -1,0 +1,29 @@
+filename = 'sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar'
+name = 'Sophisticated Backpack/Storage Emerald Upgrade'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3-NeoForge-1.21.1'
+
+[download]
+hash = 'eebf7319cbe1c9840109ddef9c1156b8f8c0b818dfd1464e23c63c883191842979afbabdd5242528171fa306d59f4caee6359c396e1179f049205ab37195cf40'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qkIuMMRF/versions/MtnvEiK0/sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'qkIuMMRF'
+version = 'MtnvEiK0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nmoqTijg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TyCTlI4b'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hMlaZH8f'
+type = 'REQUIRED'

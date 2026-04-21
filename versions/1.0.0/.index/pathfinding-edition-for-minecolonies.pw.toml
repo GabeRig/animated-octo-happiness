@@ -1,0 +1,21 @@
+filename = 'colonypathingedition-1.21.1-1.0.5-ALPHA-8.1.jar'
+name = 'Pathfinding Edition For MineColonies'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'colonypathingedition-1.21.1-1.0.5-ALPHA-8.1.jar'
+
+[download]
+hash = '1001dcb0cf25e04da44a325051c1c5fe54e58e9c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7941118
+project-id = 1278014
+
+[[x-prismlauncher-dependencies]]
+addonId = '245506'
+type = 'REQUIRED'

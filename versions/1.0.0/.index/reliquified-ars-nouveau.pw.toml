@@ -1,0 +1,25 @@
+filename = 'reliquified_ars_nouveau-1.21.1-0.7.1.jar'
+name = 'Reliquified Ars Nouveau'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.7.1'
+
+[download]
+hash = 'c0278621bba889292bea79a2e274b1ff1fb27aab053938d7c674eb61310d3844e3a625c9653e9db35cce62aaca3e778e6ea5f62f852de299ddf9b15087c3bb44'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qNOCEdeg/versions/tjRXXmkQ/reliquified_ars_nouveau-1.21.1-0.7.1.jar'
+
+[update.modrinth]
+mod-id = 'qNOCEdeg'
+version = 'tjRXXmkQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TKB6INcv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OCJRPujW'
+type = 'REQUIRED'

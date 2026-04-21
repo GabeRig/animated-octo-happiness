@@ -1,0 +1,25 @@
+filename = 'crittercolonies-1.21.1-0.2.1-neoforge.jar'
+name = 'Critter Colonies (for MineColonies)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'crittercolonies-1.21.1-0.2.1-neoforge.jar'
+
+[download]
+hash = 'ba02b6568f312d7ec914e5c2f1bd65c58c664ed2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7926695
+project-id = 1475464
+
+[[x-prismlauncher-dependencies]]
+addonId = '245506'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
